@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "firstname": "Tim",
+            "lastname": "Mullins"
+        },
+        {
+            "firstname": "Dave",
+            "lastname": "Batista"
+        },
+        {
+            "firstname": "Shawn",
+            "lastname": "Michaels"
+        },
+        {
+            "firstname": "John",
+            "lastname": "Cena"
+        },
+        {
+            "firstname": "Under",
+            "lastname": "Taker"
+        },
+        {
+            "firstname": "Brock",
+            "lastname": "Lesnar"
+        }
+    ]
+}
